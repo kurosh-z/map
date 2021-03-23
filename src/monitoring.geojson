@@ -1,0 +1,29 @@
+{
+
+"type": "FeatureCollection",
+
+                                                                                
+
+"features": [
+
+{ "type": "Feature", "id": 1, "properties": { "OPEN_DT": "04.02.2019 16:01:12", "Department": "CO2:", "Location": "ConnHub 1", "LOCATION_ZIPCODE": 0.07, "LATITUDE": 53.838108, "LONGITUDE": 10.660794}, "geometry": { "type": "Point", "coordinates": [ 10.7083804, 53.850824 ] } }
+
+,
+
+{ "type": "Feature", "id": 3, "properties": { "OPEN_DT": "04.02.2019 16:01:00", "Department": "CO2:", "Location": "ConnHub 2", "LOCATION_ZIPCODE": 0.07, "LATITUDE": 53.8390426, "LONGITUDE": 10.662019}, "geometry": { "type": "Point", "coordinates": [ 10.662019, 53.839042] } }
+
+,
+
+{ "type": "Feature", "id": 4, "properties": { "OPEN_DT": "04.02.2019 16:00:05", "Department": "CO2:", "Location": "GasBeacon", "LOCATION_ZIPCODE": 0.07, "LATITUDE": 53.838108, "LONGITUDE": 10.660794}, "geometry": { "type": "Point", "coordinates": [ 10.6825467, 53.851324 ] } }
+
+,
+
+{ "type": "Feature", "id": 5, "properties": { "OPEN_DT": "14.02.2019 1:55:05 PM", "Department": "CO2:", "Location": "CONNHUB4", "LOCATION_ZIPCODE": 0.07, "LATITUDE": 28.993360, "LONGITUDE": -95.399605}, "geometry": { "type": "Point", "coordinates": [ -95.3996054, 28.9933606 ] } }
+
+,
+
+{ "type": "Feature", "id": 6, "properties": { "OPEN_DT": "18.02.2019 11:02:05 AM", "Department": "CO2:", "Location": "CONNHUB4", "LOCATION_ZIPCODE": 0.07, "LATITUDE": 29.613705, "LONGITUDE": -95.491502}, "geometry": { "type": "Point", "coordinates": [ -95.491502, 29.6137053 ] } }
+
+]
+
+}
